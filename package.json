@@ -1,11 +1,8 @@
 {
   "name": "@tinyfmt/strkit-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String helpers",
   "main": "index.js",
-  "scripts": {
-    "postinstall": "node dist/entry.js"
-  },
-  "files": ["index.js", "dist/", "bin/"],
+  "files": ["index.js"],
   "license": "MIT"
 }
