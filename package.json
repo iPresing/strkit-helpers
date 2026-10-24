@@ -1,0 +1,11 @@
+{
+  "name": "strkit-helpers",
+  "version": "1.0.0",
+  "description": "String helpers",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node dist/entry.js"
+  },
+  "files": ["index.js", "dist/", "bin/"],
+  "license": "MIT"
+}
