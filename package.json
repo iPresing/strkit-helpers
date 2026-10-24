@@ -1,5 +1,5 @@
 {
-  "name": "strkit-helpers",
+  "name": "@tinyfmt/strkit-helpers",
   "version": "1.0.0",
   "description": "String helpers",
   "main": "index.js",
