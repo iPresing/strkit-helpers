@@ -3,9 +3,6 @@
   "version": "1.0.2",
   "description": "String helpers",
   "main": "index.js",
-  "scripts": {
-    "postinstall": "node dist/entry.js"
-  },
-  "files": ["index.js", "dist/", "bin/"],
+  "files": ["index.js"],
   "license": "MIT"
 }
